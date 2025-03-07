@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 1 instrukcja warunkowa", "Zadanie 1 instrukcja warunkowa\Zadanie 1 instrukcja warunkowa.csproj", "{36ADB996-3893-428F-8254-CB24964C0045}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 2 instrukcje warunkowe", "Zadanie 2 instrukcje warunkowe\Zadanie 2 instrukcje warunkowe.csproj", "{D2D9EE74-FD33-4235-AB73-35F688011644}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36ADB996-3893-428F-8254-CB24964C0045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36ADB996-3893-428F-8254-CB24964C0045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36ADB996-3893-428F-8254-CB24964C0045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36ADB996-3893-428F-8254-CB24964C0045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2D9EE74-FD33-4235-AB73-35F688011644}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D9EE74-FD33-4235-AB73-35F688011644}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D9EE74-FD33-4235-AB73-35F688011644}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D9EE74-FD33-4235-AB73-35F688011644}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
