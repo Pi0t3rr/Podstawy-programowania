@@ -17,8 +17,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 6 prawdziwe, wcześ
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad 7 pętle", "Zad 7 pętle\Zad 7 pętle.csproj", "{4E297864-01EC-418D-A214-A704E93F5049}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zadanie 8 pętle", "Zadanie 8 pętle\Zadanie 8 pętle.csproj", "{30425CB6-EBEA-4F96-9C4A-E40DA1123BE5}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,10 +51,6 @@ Global
 		{4E297864-01EC-418D-A214-A704E93F5049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4E297864-01EC-418D-A214-A704E93F5049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4E297864-01EC-418D-A214-A704E93F5049}.Release|Any CPU.Build.0 = Release|Any CPU
-		{30425CB6-EBEA-4F96-9C4A-E40DA1123BE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{30425CB6-EBEA-4F96-9C4A-E40DA1123BE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{30425CB6-EBEA-4F96-9C4A-E40DA1123BE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{30425CB6-EBEA-4F96-9C4A-E40DA1123BE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

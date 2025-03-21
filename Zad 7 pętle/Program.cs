@@ -15,7 +15,7 @@ namespace Zad_7_pętle
             int i;
             Console.WriteLine("Wszystkie liczby od 1 do 100 podzielne przez 13: ");
             for (i = 13; i <= 100; i += 13)
-            Console.Write("{0}, ", i);
+                Console.Write("{0}, ", i);
                 Console.ReadKey(true);
 
 
