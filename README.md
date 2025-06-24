@@ -29,6 +29,7 @@ Projekt wykorzystuje następujące technologie:
 Aby uruchomić grę lokalnie:
 
 1.Pobierz projekt jako folder lub archiwum `.zip`.
+
 2. Upewnij się, że masz zainstalowane:
    - Rozszerzenie "C#" w Visual Studio Code.
 3. Otwórz projekt w Visual Studio Code ("File > Open Folder).
