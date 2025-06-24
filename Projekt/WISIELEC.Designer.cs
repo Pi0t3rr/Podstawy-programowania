@@ -99,7 +99,7 @@
             // 
             this.lblKoniecGry.AutoSize = true;
             this.lblKoniecGry.Font = new System.Drawing.Font("Microsoft Sans Serif", 24F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
-            this.lblKoniecGry.Location = new System.Drawing.Point(211, 202);
+            this.lblKoniecGry.Location = new System.Drawing.Point(211, 199);
             this.lblKoniecGry.Name = "lblKoniecGry";
             this.lblKoniecGry.Size = new System.Drawing.Size(100, 37);
             this.lblKoniecGry.TabIndex = 6;
